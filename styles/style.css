@@ -11,6 +11,12 @@ h6,
 button {
   font-family: "Sora", sans-serif;
 }
+.primary-color {
+  color: #122555;
+}
+.primary-hover:hover {
+  color: #122555;
+}
 body {
   font-family: "Inter", sans-serif;
 }

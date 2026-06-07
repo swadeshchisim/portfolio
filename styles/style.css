@@ -17,6 +17,9 @@ button {
 .primary-hover:hover {
   color: #122555;
 }
+.blue-violet {
+  color: #7552db;
+}
 body {
   font-family: "Inter", sans-serif;
 }

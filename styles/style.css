@@ -20,6 +20,9 @@ button {
 .blue-violet {
   color: #7552db;
 }
+.blue-violet-bg {
+  background: #7552db;
+}
 body {
   font-family: "Inter", sans-serif;
 }

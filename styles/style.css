@@ -26,3 +26,6 @@ button {
 body {
   font-family: "Inter", sans-serif;
 }
+.d-none {
+  display: none;
+}
